@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">libraries</string>
+    <string name="tracking_track_msg">track: %s</string>
+</resources>

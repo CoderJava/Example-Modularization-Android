@@ -1,0 +1,9 @@
+include ':app'
+
+include 'core:interactors'
+
+include 'shared:libraries'
+include 'shared:models'
+include 'shared:tracking'
+
+rootProject.name = 'Belajar Modularization'
